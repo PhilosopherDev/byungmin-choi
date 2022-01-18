@@ -1,2 +1,2 @@
 # byungmin-choi
-Record footprint of me
+Record system of my footprint
